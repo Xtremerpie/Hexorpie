@@ -1,6 +1,6 @@
 {
-  "host": "Xtremerpie.aternos.me",
-  "port": 14086,
+  "host": "SEVER_IP",
+  "port": SERVER_PORT,
   "username": "Hexorpie",
-  "owner": "xtremerpie"
+  "owner": "NAME_OF_USER_IN_GAME"
 }
