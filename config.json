@@ -1,6 +1,6 @@
 {
-  "host": "SEVER_IP",
-  "port": SERVER_PORT,
+  "host": "...",
+  "port": 25565,
   "username": "Hexorpie",
-  "owner": "NAME_OF_USER_IN_GAME"
+  "owner": "xtremerpie"
 }
